@@ -3,9 +3,10 @@
         <img src=".github/capa.png" alt="Logo King Host">
     <br>
 </h1>
-<p align="center"> Visualize o projeto:
 
-</p>
+<!-- <p align="center"> Visualize o projeto:
+
+</p> -->
 
 <!-- <img src=".github/demo.gif" alt="Demonstração do Projeto" height="350">&nbsp;&nbsp;
 <img src=".github/demo-mobile.gif" alt="Demonstração do Projeto" height="350">
